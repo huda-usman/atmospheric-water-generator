@@ -77,23 +77,18 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 
 ## 🛠️ Build Steps
 
-**Step 1 — Peltier Setup**
-Apply thermal paste on both faces of the Peltier module for maximum thermal contact.
+<div align="center">
 
-**Step 2 — Mount Heatsinks**
-Attach one heatsink to the cold side (condensation surface) and one to the hot side. Secure with bolts and metal brackets.
+| # | Step | Details |
+|:---:|------|---------|
+| 🔧 **1** | **Peltier Setup** | Apply thermal paste on both faces for maximum heat transfer |
+| 🔩 **2** | **Mount Heatsinks** | Cold side → condensation · Hot side → heat dissipation · Secure with bolts |
+| 🌀 **3** | **Attach Fan** | Mount on hot side heatsink · Connect wires alongside Peltier |
+| 🦿 **4** | **Assemble Frame** | Fix assembly on 4-legged stand · Leave clearance below for dripping |
+| 📦 **5** | **Place Container** | Position plastic container directly under cold heatsink fins |
+| ⚡ **6** | **Power On** | Connect to **12V DC** · Wait a few minutes · Watch water appear 💧 |
 
-**Step 3 — Attach Fan**
-Mount the cooling fan on the hot side heatsink to actively exhaust heat. Connect fan wires with Peltier power wires.
-
-**Step 4 — Assemble Frame**
-Mount the full assembly onto the 4-legged metal stand with enough clearance below for water to drip freely.
-
-**Step 5 — Place Container**
-Position the plastic container directly under the cold heatsink fins.
-
-**Step 6 — Power On**
-Connect to a **12V DC** power supply. Within minutes, condensation will form on the heatsink fins and begin dripping.
+</div>
 
 ---
 
