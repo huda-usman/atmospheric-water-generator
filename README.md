@@ -29,7 +29,7 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
   <tr>
     <td align="center" width="33%"><img src="images/Img_1.jpg" width="220"/><br/><sub><b>Front View</b></sub></td>
     <td align="center" width="33%"><img src="images/Img_2.jpg" width="220"/><br/><sub><b>Side View</b></sub></td>
-    <td align="center" width="33%"><img src="images/Img_3.jpg" width="220"/><br/><sub><b>Full Assembly</b></sub></td>
+    <td align="center" width="33%"><img src="images/Img_3.jpg" width="220"/><br/><sub><b>Close-up View</b></sub></td>
   </tr>
 </table>
 
