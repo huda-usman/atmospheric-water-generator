@@ -1,10 +1,6 @@
 <div align="center">
 
-# 💧 Atmospheric Water Generator
-
-<img src="images/Img_1.jpg" width="400" alt="Water Extractor from Air"/>
-
-<br/>
+# 💧 Water Extractor from Air
 
 ![Status](https://img.shields.io/badge/Status-Working%20Prototype-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Hardware%20Project-orange?style=for-the-badge)
@@ -45,39 +41,39 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 
 ## ⚙️ How It Works
 
+When powered on, the **Peltier module** pumps heat from one side to the other — making one face ice-cold and the other hot. The cold face is sandwiched against a **aluminum heatsink** whose fins are exposed to the surrounding air. A **cooling fan** on the hot side constantly pushes fresh humid air across these cold fins.
+
+As warm, moisture-laden air touches the cold metal fins, the temperature drops sharply. Once it falls below the **dew point** — the temperature at which air can no longer hold its water vapor — that vapor turns into liquid droplets right on the surface of the fins. These droplets grow, merge, and slide down by gravity, dripping off the bottom of the heatsink into a **plastic collection container** placed below.
+
+Meanwhile, the hot side of the Peltier generates significant heat. A second heatsink with **thermal paste** is attached there, and the fan continuously exhausts this heat away to keep the system running efficiently.
+
+The result: **air goes in, water comes out.**
+
 ```
-        🌫️  Humid Air
-              │
-              ▼
-     ┌─────────────────┐
-     │   Cooling Fan   │  ◄── Forces air over the cold heatsink
-     └────────┬────────┘
-              │
-              ▼
-     ┌─────────────────────────┐
-     │      Cold Heatsink       │  ◄── Drops below Dew Point
-     │   (Peltier Cold Side)    │       → Moisture condenses on fins
-     └────────┬────────────────┘
-              │  💧 Droplets drip down by gravity
-              ▼
-     ┌─────────────────┐
-     │    Collection    │  ◄── Plastic container catches water
-     │    Container     │
-     └─────────────────┘
+   🌫️ Humid Air
+        │
+        ▼
+  ┌───────────┐
+  │  Cool Fan  │  ──► Blows air across cold fins
+  └─────┬─────┘
+        │
+        ▼
+  ╔═════════════════╗
+  ║   Cold Heatsink  ║  ◄── Surface temp < Dew Point
+  ║  (TEC Cold Side) ║       💧 Moisture condenses here
+  ╚═════════════════╝
+        │
+        │  droplets run down fins
+        ▼
+  ┌─────────────────┐
+  │  Water Container │  ◄── Collects extracted water
+  └─────────────────┘
 
-     ┌─────────────────────────┐
-     │      Hot Heatsink        │  ◄── Dissipates heat away
-     │   (Peltier Hot Side)     │       + Thermal Paste applied
-     └─────────────────────────┘
+  ╔═════════════════╗
+  ║   Hot Heatsink   ║  ◄── Exhausts heat from TEC hot side
+  ║  (TEC Hot Side)  ║       Thermal paste for efficiency
+  ╚═════════════════╝
 ```
-
-### 🧊 The Science
-
-The **Peltier module (TEC)** uses electricity to create a temperature difference:
-- One side gets **cold**, the other gets **hot**
-- The cold side cools the heatsink **below the dew point**
-- Water vapor in passing air **condenses** into droplets on the fins
-- Droplets fall by **gravity** into the container below
 
 ---
 
