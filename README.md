@@ -27,9 +27,9 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 
 <table>
   <tr>
-    <td align="center"><img src="images/Img_1.jpg" width="240" height="300" style="object-fit:cover"/><br/><sub><b>Bottom View</b> — Water dripping into container</sub></td>
-    <td align="center"><img src="images/Img_2.jpg" width="240" height="300" style="object-fit:cover"/><br/><sub><b>Side View</b> — Fan & full assembly</sub></td>
-    <td align="center"><img src="images/Img_3.jpg" width="240" height="300" style="object-fit:cover"/><br/><sub><b>Front View</b> — Condensation on fins</sub></td>
+    <td align="center" width="33%"><img src="images/Img_1.jpg" width="220"/><br/><sub><b>Front View</b></sub></td>
+    <td align="center" width="33%"><img src="images/Img_2.jpg" width="220"/><br/><sub><b>Side View</b></sub></td>
+    <td align="center" width="33%"><img src="images/Img_3.jpg" width="220"/><br/><sub><b>Full Assembly</b></sub></td>
   </tr>
 </table>
 
