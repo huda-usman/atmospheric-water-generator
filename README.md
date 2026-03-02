@@ -41,8 +41,6 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 
 ## ⚙️ How It Works
 
-<div align="center">
-
 | Step | Component | What Happens |
 |:----:|-----------|-------------|
 | 1️⃣ | **Cooling Fan** | Blows humid air across the cold heatsink |
@@ -51,8 +49,6 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 | 4️⃣ | **Gravity** | Water droplets slide down fins |
 | 5️⃣ | **Collection Container** | Catches all the extracted water |
 | 6️⃣ | **Hot Heatsink + Thermal Paste** | Exhausts heat away to keep system efficient |
-
-</div>
 
 ```
   🌫️ Humid Air  ──►  🌀 Fan  ──►  ❄️ Cold Heatsink  ──►  💧 Droplets  ──►  🪣 Container
@@ -77,8 +73,6 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 
 ## 🛠️ Build Steps
 
-<div align="center">
-
 | # | Step | Details |
 |:---:|------|---------|
 | 🔧 **1** | **Peltier Setup** | Apply thermal paste on both faces for maximum heat transfer |
@@ -87,8 +81,6 @@ It showcases the practical application of the **Peltier (thermoelectric) effect*
 | 🦿 **4** | **Assemble Frame** | Fix assembly on 4-legged stand · Leave clearance below for dripping |
 | 📦 **5** | **Place Container** | Position plastic container directly under cold heatsink fins |
 | ⚡ **6** | **Power On** | Connect to **12V DC** · Wait a few minutes · Watch water appear 💧 |
-
-</div>
 
 ---
 
