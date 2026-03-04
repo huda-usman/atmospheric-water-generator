@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0077b6,70:00b4d8,100:90e0ef&height=200&section=header&text=Water%20Extractor%20from%20Air&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Harvesting%20Water%20from%20Thin%20Air%20%E2%80%94%20Powered%20by%20Thermoelectrics&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1e,100:00b4d8&height=160&text=Water%20Extractor%20from%20Air&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Harvesting%20Water%20from%20Thin%20Air%20%7C%20Powered%20by%20Thermoelectrics&descAlignY=75&descSize=14" width="100%"/>
 
 <br/>
 
@@ -212,7 +212,7 @@ atmospheric-water-generator/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,30:00b4d8,70:0077b6,100:0a0f1e&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00b4d8,100:0a0f1e&height=100&section=footer" width="100%"/>
 
 ### 👤 Author
 
