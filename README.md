@@ -214,9 +214,9 @@ atmospheric-water-generator/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,100:0a0f1e&height=80&section=footer" width="100%"/>
 
-### 👤 Author
+### 🙋‍♀️ Connect with Me
 
-**Huda Usman**
+Developed by **Huda Usman**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huda%20Usman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudausman010)
 
