@@ -212,7 +212,7 @@ atmospheric-water-generator/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00b4d8,100:0a0f1e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,100:0a0f1e&height=80&section=footer" width="100%"/>
 
 ### 👤 Author
 
