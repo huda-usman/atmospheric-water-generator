@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1e,100:00b4d8&height=160&text=Water%20Extractor%20from%20Air&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Harvesting%20Water%20from%20Thin%20Air%20%7C%20Powered%20by%20Thermoelectrics&descAlignY=75&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1e,100:00b4d8&height=160&text=Water%20Extractor%20from%20Air&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Harvesting%20Water%20from%20Thin%20Air%20%7C%20Powered%20by%20Thermoelectrics&descAlignY=75&descSize=14" width="100%"/>
 
 <br/>
 
