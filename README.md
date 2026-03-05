@@ -27,8 +27,6 @@ Organized by Shifa Tameer-e-Millat University, Islamabad
 
 <div align="center">
 
-*"Turning air into water — one electron at a time."*
-
 A working **Atmospheric Water Generator** built from scratch using the Peltier thermoelectric effect — no code, pure physics.
 
 <br/>
