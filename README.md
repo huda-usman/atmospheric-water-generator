@@ -12,9 +12,7 @@
 ![Voltage](https://img.shields.io/badge/Power-12V%20DC-red?style=for-the-badge)
 ![Peltier](https://img.shields.io/badge/Module-TEC1--12706-00b4d8?style=for-the-badge)
 ![Award](https://img.shields.io/badge/STMU_2024-Sustainability_Innovation_Award_🏆-ffd700?style=for-the-badge&labelColor=0a0f1e)
-
 <br/>
-
 <!-- AWARD BLOCK -->
 > ### 🏆 Sustainability Innovation Award
 > **STMU Sustainability Competition 2024**
