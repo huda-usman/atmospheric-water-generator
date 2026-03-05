@@ -11,8 +11,13 @@
 ![No Code](https://img.shields.io/badge/Code-None%20Required-90e0ef?style=for-the-badge&logoColor=black)
 ![Voltage](https://img.shields.io/badge/Power-12V%20DC-red?style=for-the-badge)
 ![Peltier](https://img.shields.io/badge/Module-TEC1--12706-00b4d8?style=for-the-badge)
-![Award](https://img.shields.io/badge/🏆%20Sustainability%20Innovation%20Award-STMU%202024-ffd700?style=for-the-badge&labelColor=0a0f1e)
+![Award](https://img.shields.io/badge/STMU_2024-Sustainability_Innovation_Award_🏆-ffd700?style=for-the-badge&labelColor=0a0f1e)
+<br/>
 
+> ### 🏆 Sustainability Innovation Award
+> **STMU Sustainability Competition 2024**
+> Organized by Shifa Tameer-e-Millat University, Islamabad
+> 📅 2024 · Shifa Tameer-e-Millat University
 <br/>
 
 > ### *"Turning air into water — one electron at a time."*
