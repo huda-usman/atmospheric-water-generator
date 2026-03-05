@@ -14,22 +14,28 @@
 ![Award](https://img.shields.io/badge/STMU_2024-Sustainability_Innovation_Award_🏆-ffd700?style=for-the-badge&labelColor=0a0f1e)
 <br/>
 <!-- AWARD BLOCK -->
-> ### 🏆 Sustainability Innovation Award
-> **STMU Sustainability Competition 2024**
-> Organized by Shifa Tameer-e-Millat University, Islamabad
-> 📅 2024 · Shifa Tameer-e-Millat University
+<div align="center">
 
-<br/>
+### 🏆 Sustainability Innovation Award
+**STMU Sustainability Competition 2024**
+Organized by Shifa Tameer-e-Millat University, Islamabad
+📅 2024
+
+</div>
+
 ---
 
-<!-- TAGLINE -->
-> ### *"Turning air into water — one electron at a time."*
-> A working **Atmospheric Water Generator** built from scratch using the Peltier thermoelectric effect — no code, pure physics.
+<div align="center">
+
+*"Turning air into water — one electron at a time."*
+
+A working **Atmospheric Water Generator** built from scratch using the Peltier thermoelectric effect — no code, pure physics.
 
 <br/>
 
-<!-- NAV -->
 [🌊 Overview](#-overview) • [⚙️ How It Works](#️-how-it-works) • [🔩 Components](#-components) • [🛠️ Build Steps](#️-build-steps) • [📊 Results](#-results) • [🚀 Future](#-future-improvements)
+
+</div>
 
 </div>
 
