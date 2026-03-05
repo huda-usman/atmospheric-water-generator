@@ -11,6 +11,7 @@
 ![No Code](https://img.shields.io/badge/Code-None%20Required-90e0ef?style=for-the-badge&logoColor=black)
 ![Voltage](https://img.shields.io/badge/Power-12V%20DC-red?style=for-the-badge)
 ![Peltier](https://img.shields.io/badge/Module-TEC1--12706-00b4d8?style=for-the-badge)
+![Award](https://img.shields.io/badge/🏆%20Sustainability%20Innovation%20Award-STMU%202024-ffd700?style=for-the-badge&labelColor=0a0f1e)
 
 <br/>
 
